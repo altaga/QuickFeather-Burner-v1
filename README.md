@@ -8,3 +8,5 @@ Library to compile:
 Command to compile:
 
     pyinstaller --onefile --icon=./icon.ico interface.py
+
+Exe file /dist into folder.
